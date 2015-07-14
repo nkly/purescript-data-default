@@ -1,0 +1,15 @@
+{
+  "name": "purescript-data-default",
+  "homepage": "https://github.com/dancingrobot84/purescript-data-default",
+  "description": "Typeclass for datatypes which have default values",
+  "license": "MIT",
+  "keywords": [
+    "purescript", "data-default", "default"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "bower.json",
+    "README.md"
+  ]
+}
